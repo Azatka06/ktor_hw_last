@@ -1,0 +1,1 @@
+web: ./build/install/Backend_Ktor_CRUD/bin/Backend_Ktor_CRUD
